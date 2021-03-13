@@ -1,0 +1,17 @@
+Home Page = index.html
+Category Page = category.html
+Product Details Page = product.html
+Shop Cart Page = cart.html
+Checkout Page = We have to Make it
+Payment Gateway Integration = SSLCOMMERZ
+Order Confirmation Page = We have to Make it
+SMS Gateway Integration = SMS Gateway
+About Us Page = about.html
+Terms and Conditions Page = about.html
+Return Policy Page = about.html
+Privacy Policy Page = about.html
+Contact Page = contact.html
+Login Page = Have to make from my-account.html
+Register Page = my-account.html
+My Account = Have to make from my-account.html
+My Orders = We have to Make it

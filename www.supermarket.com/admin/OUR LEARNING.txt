@@ -1,0 +1,13 @@
+Admin Panel
+- Login System
+- Session Handling
+- Registration System
+- User Access Controlling
+- Select Data to show on List
+- Insert Data with File Upload
+- Update Data with Edit Form
+- Delete Data
+- Join Query to Select Data
+- AJAX Data Load - Load Option on Another Option select using AJAX jQuery
+- Show Dymanic Dropdown
+- Password reset (Pending)

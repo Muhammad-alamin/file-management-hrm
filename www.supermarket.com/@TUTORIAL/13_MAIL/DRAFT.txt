@@ -1,0 +1,14 @@
+
+m5(5465464645)
+
+$code = '5645';
+"http://nirjhor.net/reset.php?=" . $code;
+
+http://nirjhor.net/reset.php?code=5645
+
+
+if(isset($_GET['code']))
+{
+	$code = $_GET['code'];
+	SELECT * FROM users WHERE reset_code = $code
+}

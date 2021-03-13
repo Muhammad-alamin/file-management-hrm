@@ -1,0 +1,22 @@
+.catalog-product-image img {
+	width: 170px;
+	height: 215px;
+}
+.product-title {
+	min-height: 50px;
+}
+.custom-cart { 
+	padding-top: 10px !important;
+}
+@media screen and (min-width: 992px) {
+.home-top-container {
+    padding-top: 0rem !important;
+}
+.cart-summary-image > img {
+	height: 62px !important;
+	width: 52px !important;
+}
+.custom-order-submitted {
+	height: 100px;
+	width: 100px;
+}

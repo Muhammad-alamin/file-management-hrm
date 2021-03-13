@@ -1,0 +1,50 @@
+cPanel Path:
+http://nirjhor.net/cpanel
+
+Web Mail Checking Path: 
+http://nirjhor.net/webmail
+
+PHP Mail 
+> sendmail Mod 
+> PHP mail() Function 
+> No Auth Needed 
+> billing@nirjhor.net > @nirjhor.net
+
+SMTP Mail
+> No Mod Needed
+> Auth Needed
+
+Common Practice of Using Mail:
+> Signup/Pass Recovery/Account Info: 
+	noreply@nirjhor.net
+> Support/Tech Support/Customer Support:
+	support@nirjhor.net, care@nirjhor.net
+> Information/Query:
+	info@nirjhor.net
+> Administrator:
+	admin@nirjhor.net
+> Billing Department/Bills:
+	billing@nirjhor.net
+> Sales/Marketing Department:
+	sales@nirjhor.net
+
+Available PHP Libraries for sending SMTP Mail:
+> SwiftMail
+> phpMailer
+
+Purpose of Use: 
+> Signup Success Mail
+> Multiple Steps might be there:
+	> Order Submission
+	> Order Confirmation/Accepted
+	> Transaction Success ***
+	> Order Delivery ***
+> Password Recovery
+> Account Information Change
+> Customer Query Submission
+> Customer Feedback
+
+CRON Job:
+> Mail Sending within an Interval
+> Mail Marketing Software
+> Large Transaction's Site

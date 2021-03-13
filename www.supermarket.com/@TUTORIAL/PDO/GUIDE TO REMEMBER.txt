@@ -1,0 +1,15 @@
+1) "Only SELECT" Query
+	Use query() Function of PDO
+
+2) INSERT/UPDATE query without Prepared Statement
+	Use exec() Function of PDO
+
+3) INSERT query with Prepared Statement
+	Use prepare(), then execute()
+
+4) DELETE query with Prepared Statement
+	Use prepare(), then bindValue(), then execute() Function
+
+5) lastInsertId() function will be called for $conn Object
+
+6) rowCount() function will be called for $result Object

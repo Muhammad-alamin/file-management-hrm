@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+<title>Cricinfo Live Scores</title>
+<ttl>2</ttl>
+<link>http://www.cricinfo.com</link>
+<description>Latest scores from Cricinfo</description>
+<copyright>(c)Cricinfo</copyright>
+<language>en-gb</language>
+<pubDate>Sat, 02 May 2015 06:42:02 +0000</pubDate>
+<item>
+<title>Bangladesh 332/10 &amp;  322/1 * v Pakistan 628/10 </title>
+<link>http://www.cricinfo.com/ci/engine/match/858493.html?CMP=OTC-RSS </link>
+<description>Bangladesh 332/10 &amp;  322/1 * v Pakistan 628/10 </description>
+ <guid>http://www.cricinfo.com/ci/engine/match/858493.html</guid> </item>
+<item>
+<title>West Indies v England 240/7 *</title>
+<link>http://www.cricinfo.com/ci/engine/match/766933.html?CMP=OTC-RSS </link>
+<description>West Indies v England 240/7 *</description>
+ <guid>http://www.cricinfo.com/ci/engine/match/766933.html</guid> </item>
+<item>
+<title>Middlesex v Durham</title>
+<link>http://www.cricinfo.com/ci/engine/match/804181.html?CMP=OTC-RSS </link>
+<description>Middlesex v Durham</description>
+ <guid>http://www.cricinfo.com/ci/engine/match/804181.html</guid> </item>
+<item>
+<title>Royal Challengers Bangalore v Kolkata Knight Riders</title>
+<link>http://www.cricinfo.com/ci/engine/match/829771.html?CMP=OTC-RSS </link>
+<description>Royal Challengers Bangalore v Kolkata Knight Riders</description>
+ <guid>http://www.cricinfo.com/ci/engine/match/829771.html</guid> </item>
+<item>
+<title>Sunrisers Hyderabad v Chennai Super Kings</title>
+<link>http://www.cricinfo.com/ci/engine/match/829773.html?CMP=OTC-RSS </link>
+<description>Sunrisers Hyderabad v Chennai Super Kings</description>
+ <guid>http://www.cricinfo.com/ci/engine/match/829773.html</guid> </item>
+</channel>
+</rss>
